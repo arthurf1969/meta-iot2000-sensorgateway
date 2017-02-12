@@ -1,0 +1,1 @@
+# meta-iot2000-sensorgateway
