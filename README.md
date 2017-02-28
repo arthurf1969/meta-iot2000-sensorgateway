@@ -35,8 +35,9 @@ Building the meta-iot2000-sensorgateway BSP Layer
 ==================================================
 
 This uses Yocto 2.2 (Morty) with the 4.8 Linux kernel provided by Yocto and
-the meta-intel layer. The build has be tested successfully on Debian 8 and
-OpenSuse 13.2, but other recent distros are expected to work as well.
+the meta-intel layer. The build has be tested successfully on Ubuntu 16.04 x86 Server.
+I used a virtual machine to compile the whole image. Building the image from scratch for
+the very first time might take several (>4) hours to compile depending on your hardware..
 
 ## Prepare:
 
