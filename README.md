@@ -3,6 +3,10 @@
 This README file contains information on building the meta-iot2000-sensorgateway layer
 for the Simatic IoT2000 device.
 
+The project is based around the Siemens IoT2000 device and uses the image found in
+https://github.com/siemens/meta-iot2000 as a base working skeleton to provide additional,
+up-to-date packages and an infrastructure for connecting various sensors with a dedicated
+data-preprocessing infrastructure.
 
 Dependencies
 ============
