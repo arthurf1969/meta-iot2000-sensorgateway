@@ -1,5 +1,5 @@
 require recipes-core/images/core-image-minimal.bb
-require recipes-core/images/wic-image.inc
+require iot2000-sensorgateway-image.inc
 
 SUMMARY = "Image for the IOT2000 platform used as a sensorgateway"
 DESCRIPTION = "Image for the IOT2000 platform used as a sensorgateway"
